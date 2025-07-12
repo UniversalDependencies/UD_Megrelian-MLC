@@ -393,11 +393,11 @@
 9	ვე	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɛ
 10	მილასი	ილ	VERB	PRV_SBJ_SUBJ3_EMPH	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	Translit=milɑsi
 11	ა	ა	PART	QUOT3	Evident=Nfh	_	_	_	Translit=iɑ
-11	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
-12	ეთექ	ეთექ	ADV	loc	AdvType=Loc	_	_	_	Translit=ɛtɛk
-13	დაჩხირს	დაჩხირ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=dɑt͡ʃxirs
-14	იკარძანდეეს	ძან	VERB	PRV_APPL.INDIR_TS_IMPF_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	_	_	_	SpaceAfter=No|Translit=ikʼɑrd͡zɑndɛɛs
-15	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
+12	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
+13	ეთექ	ეთექ	ADV	loc	AdvType=Loc	_	_	_	Translit=ɛtɛk
+14	დაჩხირს	დაჩხირ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=dɑt͡ʃxirs
+15	იკარძანდეეს	ძან	VERB	PRV_APPL.INDIR_TS_IMPF_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	_	_	_	SpaceAfter=No|Translit=ikʼɑrd͡zɑndɛɛs
+16	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = MLC_00025
 # text = სიტიბა ოკონია ღვიინსი, ჩხურუქ ვამოხვადას ოკონია დო ღვიინსი.
