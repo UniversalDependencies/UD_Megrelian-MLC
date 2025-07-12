@@ -36,11 +36,11 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: narratives
-Lemmas: automatic manual
-UPOS: automatic manual
-XPOS: automatic
-Features: automatic manual
-Relations: not available yet
+Lemmas: automatic with corrections
+UPOS: automatic with corrections
+XPOS: automatic with corrections
+Features: automatic with corrections
+Relations: _
 Contributors: Lobzhanidze, Irina
 Contributing: here
 Contact: irina_lobzhanidze@iliauni.edu.ge
