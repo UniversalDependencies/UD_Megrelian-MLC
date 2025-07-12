@@ -17,6 +17,7 @@ The current version of the UD_Megrelian-MLC treebank includes 150 utterances (se
 # Acknowledgments
 
 The UD_Megrelian-MLC release is based on the data from the Megrelian Language Corpus (MLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. FR-21-993). 
+
 Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the dataset available on GitHub and offering valuable suggestions.
 
 ## References
@@ -40,7 +41,7 @@ Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic with corrections
 Features: automatic with corrections
-Relations: _
+Relations: manual native
 Contributors: Lobzhanidze, Irina
 Contributing: here
 Contact: irina_lobzhanidze@iliauni.edu.ge
