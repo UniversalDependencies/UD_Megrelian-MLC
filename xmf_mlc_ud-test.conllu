@@ -2277,7 +2277,7 @@
 11	რ	AUX	APPL.INDIR_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	_	Translit=ɑrd
 12	ეიშა	ეიშა	ADV	temp	AdvType=Tim	_	_	_	SpaceAfter=No|Translit=ɛiʃɑ
 13	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-14	უკუჲნე უკუჲნე	ADV	temp	AdvType=Tim	_	_	_	Translit=ukʼujnɛ
+14	უკუჲნე	უკუჲნე	ADV	temp	AdvType=Tim	_	_	_	Translit=ukʼujnɛ
 15	დიჭყეს	ჭყ	VERB	PRV_APPL.SUBJ_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	_	_	_	Translit=dit͡ʃʼqʼɛs
 16	შენობა	შენობა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=ʃɛnɔbɑ
 17	ვარა	ვარა	CCONJ	CONJ	_	_	_	_	SpaceAfter=No|Translit=vɑrɑ
