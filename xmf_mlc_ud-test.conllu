@@ -64,7 +64,7 @@
 4	ადესა	ადესა	PROPN	NOM	Case=Nom|NameType=Prs|Number=Sing	_	_	_	Translit=ɑdɛsɑ
 5	ღვინ	ღვინ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=ɣvin
 6	მუთუნ	მუთუნ	PRON	idprn_NOM	Case=Nom|PronType=Ind	_	_	_	Translit=mutun
-7-8	ვაარე		_	_	_	_	_	_	_	SpaceAfter=No
+7-8	ვაარე	_	_	_	_	_	_	_	SpaceAfter=No
 7	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ
 8	არე	რ	AUX	APPL.INDIR_STAT_SUBJ3	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	_	_	_	Translit=ɑrɛ
 9	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
