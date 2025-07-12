@@ -21,7 +21,7 @@ Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions 
 
 ## References
 
-* Kartozia, Guram; Gersamia, Rusudan; Lomia, Maia; Tskhadaia, Taia. (2010). megrulis lingvisturi analizi [Linguistic analysis of Megrelian]. Tbilisi: Meridiani.
+* Kartozia, Guram; Gersamia, Rusudan; Lomia, Maia; Tskhadaia, Taia. (2010). _megrulis lingvisturi analizi [Linguistic analysis of Megrelian]_. Tbilisi: Meridiani.
 
 
 # Changelog
