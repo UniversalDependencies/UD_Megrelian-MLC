@@ -2,20 +2,20 @@
 # text = - დო თე კაჭიჭი მუჭომ ჸურძენიდ ან მუ ფერიდ?
 # text_en = What kind of grape was Kachichi? What color was it?
 # translit = dɔ tɛ kʼɑt͡ʃʼit͡ʃʼi mut͡ʃʼɔm ʔurd͡zɛnid ɑn mu pɛrid?
-1	-	-	PUNCT	F	PunctType=Dash	0	_	_	Translit=-
-2	დო	დო	CCONJ	CONJ	_	0	_	_	Translit=dɔ
-3	თე	თე	PRON	dprn	PronType=Dem	0	_	_	Translit=tɛ
-4	კაჭიჭი	კაჭიჭ	PROPN	NOM	Case=Nom|NameType=Prs|Number=Sing	0	_	_	Translit=kʼɑt͡ʃʼit͡ʃʼi
-5	მუჭომ	მუჭომ	PRON	iprn_NOM	Case=Nom|PronType=Int	0	_	_	Translit=mut͡ʃʼɔm
+1	-	-	PUNCT	F	PunctType=Dash	_	_	_	Translit=-
+2	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
+3	თე	თე	PRON	dprn	PronType=Dem	_	_	_	Translit=tɛ
+4	კაჭიჭი	კაჭიჭ	PROPN	NOM	Case=Nom|NameType=Prs|Number=Sing	_	_	_	Translit=kʼɑt͡ʃʼit͡ʃʼi
+5	მუჭომ	მუჭომ	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=mut͡ʃʼɔm
 6-7	ჸურძენიდ	_	_	_	_	_	_	_	_
-6	ჸურძენი	ჸურძენ	NOUN	NOM	Case=Nom|Number=Sing	0	_	_	Translit=ʔurd͡zɛni
-7	დ	დ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	0	_	_	Translit=d
-8	ან	ან	CCONJ	сnj	_	0	_	_	Translit=ɑn
-9	მუ	მუ	PRON	iprn_NOM	Case=Nom|PronType=Int	0	_	_	Translit=mu
+6	ჸურძენი	ჸურძენ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=ʔurd͡zɛni
+7	დ	დ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=d
+8	ან	ან	CCONJ	сnj	_	_	_	_	Translit=ɑn
+9	მუ	მუ	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=mu
 10-11	ფერიდ	_	_	_	_	_	_	_	SpaceAfter=No
-10	ფერი	ფერ	NOUN	NOM	Case=Nom|Number=Sing	0	_	_	Translit=pɛri
-11	დ	დ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	0	_	_	Translit=d
-12	?	?	PUNCT	F	PunctType=Qest	0	_	_	Translit=?
+10	ფერი	ფერ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=pɛri
+11	დ	დ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=d
+12	?	?	PUNCT	F	PunctType=Qest	_	_	_	Translit=?
 
 # sent_id = MLC_00002
 # text = - ჭიფანაა... ჭიფანა ჸურძენ უუღუ.
