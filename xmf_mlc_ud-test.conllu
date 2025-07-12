@@ -389,10 +389,10 @@
 6	გაჯანდეს	ჯ	VERB	PRV_TS_IMPF_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	Translit=ɡɑd͡ʒɑndɛs
 7	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
 8	ჩხურუქ	ჩხურუ	NOUN	ERG	Case=Erg|Number=Sing	_	_	_	Translit=t͡ʃxuruk
-9-11	ვემილასი	_	_	_	_	_	_	_	_	
+9-11	ვემილასი	_	_	_	_	_	_	_	_
 9	ვე	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɛ
 10	მილასი	ილ	VERB	PRV_SBJ_SUBJ3_EMPH	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	Translit=milɑsi
-11	ა	ა	PART	QUOT3	Evident=Nfh	_	_	_	_	Translit=iɑ
+11	ა	ა	PART	QUOT3	Evident=Nfh	_	_	_	Translit=iɑ
 11	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
 12	ეთექ	ეთექ	ADV	loc	AdvType=Loc	_	_	_	Translit=ɛtɛk
 13	დაჩხირს	დაჩხირ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=dɑt͡ʃxirs
@@ -685,16 +685,16 @@
 8-9	ბაზრობაშანჷ	_	_	_	_	_	_	_	SpaceAfter=No
 8	ბაზრობაშა	ბაზრობა	X	ALL	Foreign=Yes	_	_	_	Translit=bɑzrɔbɑʃɑ
 9	ნჷ	ნი	SCONJ	CONJ	_	_	_	_	Translit=nə
-9	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-10	მეზობელ	მეზობელ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=mɛzɔbɛl
-11	მეზობელს	მეზობელ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=mɛzɔbɛls
-12	ოჩინანდ	ჩინ	VERB	APPL.INDIR_TS_IMPF_SUBJ3SG	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	SpaceAfter=No|Translit=ɔt͡ʃinɑnd
-13	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-14	ლარჭემ	ლარჭემ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=lɑrt͡ʃʼɛm
-15-16	ქუმომჯუმევა	_	_	_	_	_	_	_	_
-15	ქუმომჯუმე	ჯუმ	VERB	AFFMT_PRV_OBJ1_APPL.OBJ1/2_PM1/2	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=1|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	_	_	_	SpaceAfter=No|Translit=kumɔmd͡ʒumɛ
-16	ვა	ვა	PART	QUOT3	Evident=Nfh	_	_	_	Translit=vɑ
-17	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
+10	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+11	მეზობელ	მეზობელ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=mɛzɔbɛl
+12	მეზობელს	მეზობელ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=mɛzɔbɛls
+13	ოჩინანდ	ჩინ	VERB	APPL.INDIR_TS_IMPF_SUBJ3SG	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	SpaceAfter=No|Translit=ɔt͡ʃinɑnd
+14	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+15	ლარჭემ	ლარჭემ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=lɑrt͡ʃʼɛm
+16-17	ქუმომჯუმევა	_	_	_	_	_	_	_	_
+16	ქუმომჯუმე	ჯუმ	VERB	AFFMT_PRV_OBJ1_APPL.OBJ1/2_PM1/2	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=1|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut|Voice=Act	_	_	_	SpaceAfter=No|Translit=kumɔmd͡ʒumɛ
+17	ვა	ვა	PART	QUOT3	Evident=Nfh	_	_	_	Translit=vɑ
+18	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = MLC_00044
 # text = ქომჸიდია დო ქუმომჯუმევა.
@@ -718,30 +718,30 @@
 3-4	ვაოფედ	_	_	_	_	_	_	_	SpaceAfter=No
 3	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ
 4	ოფედ	ჸ	AUX	TS_Evid_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=ɔpɛd
-4	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-5	თენა	თენა	PRON	pprn_NOM	Case=Nom|PronType=Prs	_	_	_	Translit=tɛnɑ
-6	რდჷ	რ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=rdə
-7	საქონელიში	საქონელ	NOUN	GEN_EMPH	Case=Gen|Number=Sing	_	_	_	Translit=sɑkɔnɛliʃi
-8	მჷკართინაფალჷ	მჷკართინაფალ	VERB	ptcp_NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=məkʼɑrtinɑpɑlə
-9	ინსტრუმენტი	ინსტრუმენტ	X	NOM	Foreign=Yes	_	_	_	SpaceAfter=No|Translit=instʼrumɛntʼi
-10	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-11	ნამუთუთუ	ნამუ	PRON	rprn_ESS_EMPH_FOC	Case=Ess|PronType=Rel	_	_	_	SpaceAfter=No|Translit=nɑmututu
-12	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-13	ესე იგი	_	X	that_is_to_say	Foreign=Yes	_	_	_	SpaceAfter=No|Translit=ɛsɛ iɡi
-14	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-15	ბრუო	ბრუო	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	Translit=bruɔ
-16	ინა	ინა	PRON	pprn_NOM	Case=Nom|PronType=Prs	_	_	_	Translit=inɑ
-17	რე	რ	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Translit=rɛ
-18	თენა	თენა	PRON	pprn_NOM	Case=Nom|PronType=Prs	_	_	_	SpaceAfter=No|Translit=tɛnɑ
-19	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-20	ჟირი	ჟირ	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ʒiri
-21	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-22	ოთხი	ოთხ	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ɔtxi
-23	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-24	ამშვ	ამშვ	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ɑmʃv
-25	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-26	რუო	რუო	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ruɔ
-27	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
+5	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+6	თენა	თენა	PRON	pprn_NOM	Case=Nom|PronType=Prs	_	_	_	Translit=tɛnɑ
+7	რდჷ	რ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=rdə
+8	საქონელიში	საქონელ	NOUN	GEN_EMPH	Case=Gen|Number=Sing	_	_	_	Translit=sɑkɔnɛliʃi
+9	მჷკართინაფალჷ	მჷკართინაფალ	VERB	ptcp_NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=məkʼɑrtinɑpɑlə
+10	ინსტრუმენტი	ინსტრუმენტ	X	NOM	Foreign=Yes	_	_	_	SpaceAfter=No|Translit=instʼrumɛntʼi
+11	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+12	ნამუთუთუ	ნამუ	PRON	rprn_ESS_EMPH_FOC	Case=Ess|PronType=Rel	_	_	_	SpaceAfter=No|Translit=nɑmututu
+13	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+14	ესე იგი	_	X	that_is_to_say	Foreign=Yes	_	_	_	SpaceAfter=No|Translit=ɛsɛ iɡi
+15	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+16	ბრუო	ბრუო	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	Translit=bruɔ
+17	ინა	ინა	PRON	pprn_NOM	Case=Nom|PronType=Prs	_	_	_	Translit=inɑ
+18	რე	რ	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Translit=rɛ
+19	თენა	თენა	PRON	pprn_NOM	Case=Nom|PronType=Prs	_	_	_	SpaceAfter=No|Translit=tɛnɑ
+20	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+21	ჟირი	ჟირ	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ʒiri
+22	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+23	ოთხი	ოთხ	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ɔtxi
+24	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+25	ამშვ	ამშვ	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ɑmʃv
+26	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+27	რუო	რუო	NUM	card_NOM	Case=Nom|NumType=Card	_	_	_	SpaceAfter=No|Translit=ruɔ
+28	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = MLC_00046
 # text = ბრუო კალამია რე აკოსკვილჷ თენა, ათე რუო კალამიაშე.
@@ -1189,7 +1189,7 @@
 8-10	ქორჩოდჷნიაო	_	_	_	_	_	_	_	_
 8	ქორჩოდჷნი	ჩოდ	VERB	AFFMT_OBJ2_STAT_SUBJ3_EMPH	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Act	_	_	_	SpaceAfter=No|Translit=kɔrt͡ʃɔdəni
 9	ა	ა	PART	QUOT3	Evident=Nfh	_	_	_	Translit=ɑ
-10	ო	ო	PART	QUOT	Evident=Nfh	_	_	_	Translit=ɔ	
+10	ო	ო	PART	QUOT	Evident=Nfh	_	_	_	Translit=ɔ
 11	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = MLC_00072
@@ -1511,7 +1511,7 @@
 11	მიოგამალი	მიოგამალ	VERB	NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=miɔɡɑmɑli
 12	ე	ე	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Transcript=ɛ
 13-14	ვამიჩქ	_	_	_	_	_	_	_	_
-13	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ	
+13	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ
 14	ჩიმქ	ჩქ	VERB	OBJ1_APPL.OBJ1/2_TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=mit͡ʃk
 15	საკრავიშ	საკრავ	NOUN	GEN	Case=Gen|Number=Sing	_	_	_	Translit=sɑkʼrɑviʃ
 16	სახელ	სახელ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=sɑxɛl
@@ -1589,34 +1589,34 @@
 4-5	თაშიეე	_	_	_	_	_	_	_	SpaceAfter=No
 4	თაშიეე	თაშ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=tɑʃiɛ
 5	ე	ე	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Transcript=ɛ
-5	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-6	მარგაჲურო	მარგაჲურ	ADJ	ESS	Case=Ess|Number=Sing	_	_	_	Translit=mɑrɡɑjurɔ
-7	გეგნიპონაათ	ონ	VERB	PFV_PRV_APPL.SUBJ_SUBJ1_SBJ_SUBJ1/2PL	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=2|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=No|Translit=ɡɛɡnipʼɔnɑɑt
-8	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-9	ნამუთ	ნამუ	PRON	rprn_FOC	PronType=Rel	_	_	_	Translit=nɑmut
-10	ჯოხოო	ჯოხ	VERB	STAT_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	Translit=d͡ʒɔxɔɔ
-11	მოსვანჯეჲი	მოსვანჯეჲ	VERB	ptcp_NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=mɔsvɑnd͡ʒɛji
-12	დიხაასჷ	დიხაა	NOUN	DAT_EMPH	Case=Dat|Number=Sing	_	_	_	SpaceAfter=No|Translit=dixɑɑsə
-13	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-14	სოდეც	სოდე	ADV	radv_FOC	AdvType=Rel	_	_	_	Translit=sɔdɛt͡s
-15	ორდუ	რ	AUX	APPL.INDIR_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	SpaceAfter=No|Translit=ɔrdu
-16	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-17	უჲი	ულირ	VERB	NOM	Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=uji
-18	დიხას	დიხა	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=dixɑs
-19	უძახუუთ	ძახ	VERB	SUBJ1_APPL.OBJ_TS_SUBJ1/2PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres|Voice=Act	_	_	_	Translit=ud͡zɑxuut
-20	ჩქიი	ჩქიი	PRON	pprn	PronType=Prs	_	_	_	SpaceAfter=No|Translit=t͡ʃkii
-21	-	-	PUNCT	F	PunctType=Dash	_	_	_	Translit=-
-22	მარგაჲეეფ	მარგაჲ	NOUN	PL_NOM	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No|Translit=mɑrɡɑjɛɛp
-23	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-24	სოდეც	სოდე	ADV	radv_FOC	AdvType=Rel	_	_	_	Translit=sɔdɛt͡s
-25	ქუმოხვაად	ხვაად	VERB	AFFMT_PRV_TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=kumɔxvɑɑd
-26	თე	თე	PRON	dprn	PronType=Dem	_	_	_	Translit=tɛ
-27	ხალხიშ	ხალხ	NOUN	GEN	Case=Gen|Number=Sing	_	_	_	Translit=xɑlxiʃ
-28	ართ ართ	_	PRON	idprn_one_(of_many)_NOM	Case=Nom|PronType=Ind	_	_	_	Translit=ɑrt ɑrt
-29	დასახლებააქ	დასახლებაა	VERB	ger_ERG	Case=Erg|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=dɑsɑxlɛbɑɑk
-30	თე	თე	PRON	dprn	PronType=Dem	_	_	_	Translit=tɛ
-31	ადგიჲს	ადგიჲ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	SpaceAfter=No|Translit=ɑdɡijs
-32	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
+6	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+7	მარგაჲურო	მარგაჲურ	ADJ	ESS	Case=Ess|Number=Sing	_	_	_	Translit=mɑrɡɑjurɔ
+8	გეგნიპონაათ	ონ	VERB	PFV_PRV_APPL.SUBJ_SUBJ1_SBJ_SUBJ1/2PL	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=2|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=No|Translit=ɡɛɡnipʼɔnɑɑt
+9	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+10	ნამუთ	ნამუ	PRON	rprn_FOC	PronType=Rel	_	_	_	Translit=nɑmut
+11	ჯოხოო	ჯოხ	VERB	STAT_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Act	_	_	_	Translit=d͡ʒɔxɔɔ
+12	მოსვანჯეჲი	მოსვანჯეჲ	VERB	ptcp_NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=mɔsvɑnd͡ʒɛji
+13	დიხაასჷ	დიხაა	NOUN	DAT_EMPH	Case=Dat|Number=Sing	_	_	_	SpaceAfter=No|Translit=dixɑɑsə
+14	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+15	სოდეც	სოდე	ADV	radv_FOC	AdvType=Rel	_	_	_	Translit=sɔdɛt͡s
+16	ორდუ	რ	AUX	APPL.INDIR_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	SpaceAfter=No|Translit=ɔrdu
+17	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+18	უჲი	ულირ	VERB	NOM	Case=Nom|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=uji
+19	დიხას	დიხა	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	Translit=dixɑs
+20	უძახუუთ	ძახ	VERB	SUBJ1_APPL.OBJ_TS_SUBJ1/2PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres|Voice=Act	_	_	_	Translit=ud͡zɑxuut
+21	ჩქიი	ჩქიი	PRON	pprn	PronType=Prs	_	_	_	SpaceAfter=No|Translit=t͡ʃkii
+22	-	-	PUNCT	F	PunctType=Dash	_	_	_	Translit=-
+23	მარგაჲეეფ	მარგაჲ	NOUN	PL_NOM	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No|Translit=mɑrɡɑjɛɛp
+24	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+25	სოდეც	სოდე	ADV	radv_FOC	AdvType=Rel	_	_	_	Translit=sɔdɛt͡s
+26	ქუმოხვაად	ხვაად	VERB	AFFMT_PRV_TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=kumɔxvɑɑd
+27	თე	თე	PRON	dprn	PronType=Dem	_	_	_	Translit=tɛ
+28	ხალხიშ	ხალხ	NOUN	GEN	Case=Gen|Number=Sing	_	_	_	Translit=xɑlxiʃ
+29	ართ ართ	_	PRON	idprn_one_(of_many)_NOM	Case=Nom|PronType=Ind	_	_	_	Translit=ɑrt ɑrt
+30	დასახლებააქ	დასახლებაა	VERB	ger_ERG	Case=Erg|Number=Sing|VerbForm=Vnoun	_	_	_	Translit=dɑsɑxlɛbɑɑk
+31	თე	თე	PRON	dprn	PronType=Dem	_	_	_	Translit=tɛ
+32	ადგიჲს	ადგიჲ	NOUN	DAT	Case=Dat|Number=Sing	_	_	_	SpaceAfter=No|Translit=ɑdɡijs
+33	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
 
 # sent_id = MLC_00093
 # text = ანუ რე თარგამუჲი, ტეხირ მეეურს, ტეხირიშ კვარჩხან დო მარძგვან სანაპიროეეფს ხალხი ცხოვრეენს.
@@ -1734,27 +1734,27 @@
 11	რე	რ	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	SpaceAfter=No|Translit=rɛ
 12	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
 13-14	ქოიჩქჷნადაა	_	_	_	_	_	_	_	_
-15	ქოიჩქჷნა	ჩქ	VERB	AFFMT_OBJ2_APPL.OBJ1/2_TS_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=2|Person[subj]=3|Subcat=Trans|Tense=Pres|Voice=Act	_	_	_	Translit=kɔit͡ʃkənɑ
-16	დაა	და	CCONJ	CONJ	_	_	_	_	Translit=dɑɑ
-17	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-18	მუზმა	მუზმა	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=muzmɑ
-19-20	წანაე	_	_	_	_	_	_	_	_
-19	წანა	წანა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=t͡sʼɑnɑ
-20	ე	ე	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Transcript=ɛ
-21	არსებეენს	არსებ	VERB	TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=ɑrsɛbɛɛns
-22	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
-23	მაგაჲითო	მაგაჲით	NOUN	ESS	Case=Ess|Number=Sing	_	_	_	Translit=mɑɡɑjitɔ
-24	მუ	მუ	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=mu
-25	გვარიი	გვარ	NOUN	GEN	Case=Gen|Number=Sing	_	_	_	Translit=ɡvɑrii
-26	ხაალხ	ხაალხ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=xɑɑlx
-27	ცხოვრეენს	ცხოვრ	VERB	TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=t͡sxɔvrɛɛns
-28	თააქ	თააქ	ADV	loc	AdvType=Loc	_	_	_	Translit=tɑɑk
-29	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
-30	მუზმა	მუზმა	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=muzmɑ
-31-32	კომლიე	_	_	_	_	_	_	_	SpaceAfter=No
-31	კომლი	კომლ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No|Translit=kʼɔmli
-32	ე	ე	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Transcript=ɛ
-33	?	?	PUNCT	F	PunctType=Qest	_	_	_	Translit=?
+13	ქოიჩქჷნა	ჩქ	VERB	AFFMT_OBJ2_APPL.OBJ1/2_TS_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=2|Person[subj]=3|Subcat=Trans|Tense=Pres|Voice=Act	_	_	_	Translit=kɔit͡ʃkənɑ
+14	დაა	და	CCONJ	CONJ	_	_	_	_	Translit=dɑɑ
+15	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+16	მუზმა	მუზმა	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=muzmɑ
+17-18	წანაე	_	_	_	_	_	_	_	_
+17	წანა	წანა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=t͡sʼɑnɑ
+18	ე	ე	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Transcript=ɛ
+19	არსებეენს	არსებ	VERB	TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=ɑrsɛbɛɛns
+20	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
+21	მაგაჲითო	მაგაჲით	NOUN	ESS	Case=Ess|Number=Sing	_	_	_	Translit=mɑɡɑjitɔ
+22	მუ	მუ	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=mu
+23	გვარიი	გვარ	NOUN	GEN	Case=Gen|Number=Sing	_	_	_	Translit=ɡvɑrii
+24	ხაალხ	ხაალხ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=xɑɑlx
+25	ცხოვრეენს	ცხოვრ	VERB	TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=t͡sxɔvrɛɛns
+26	თააქ	თააქ	ADV	loc	AdvType=Loc	_	_	_	Translit=tɑɑk
+27	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
+28	მუზმა	მუზმა	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=muzmɑ
+29-30	კომლიე	_	_	_	_	_	_	_	SpaceAfter=No
+29	კომლი	კომლ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No|Translit=kʼɔmli
+30	ე	ე	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Transcript=ɛ
+31	?	?	PUNCT	F	PunctType=Qest	_	_	_	Translit=?
 
 # sent_id = MLC_00098
 # text = -თარგამული მარგაჲურო, ჩეულებრივ თარგამული სოთინ ვაა... ისტორიაას ბრეჲ ვგორი დო ვააჭარ, ნამდგა საწყისი მუდროშე რე, მარა მუჭო თაშინ, ხალხიი ძირითადო თაქ შხვადოშხვა გვარეფი ცხოვრეენს.
@@ -1974,21 +1974,21 @@
 10	ასე	ასე	ADV	temp	AdvType=Tim	_	_	_	Translit=ɑsɛ
 11	თქვა	თქვა	PRON	pprn	PronType=Prs	_	_	_	SpaceAfter=No|Translit=tkvɑ
 12	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-13-14	_	_	_	_	_	_	_	_
+13-14	რენო	_	_	_	_	_	_	_	_
 13	რენ	რ	AUX	STAT_SUBJ3	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	_	_	Translit=rɛn
 14	ო	ო	PART	QUOT	Evident=Nfh	_	_	_	Translit=ɔ
-14	თიიწკმა	თიიწკმა	ADV	temp	AdvType=Tim	_	_	_	Translit=tiit͡sʼkʼmɑ
-15	დაკავშირებუჲ	დაკავშირებუჲ	VERB	ptcp_NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=dɑkʼɑvʃirɛbuj
-16	მუთუნ	მუთუნ	PRON	idprn_NOM	Case=Nom|PronType=Ind	_	_	_	Translit=mutun
-17	თქმულებაა	თქმულებაა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=tkmulɛbɑɑ
-18	ან	ან	CCONJ	сnj	_	_	_	_	Translit=ɑn
-19	გადმოცემა	გადმოცემა	X	_	Foreign=Yes	_	_	_	SpaceAfter=No|Translit=ɡɑdmɔt͡sɛmɑ
-20	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-21	ნამუთ	ნამუ	PRON	rprn_FOC	PronType=Rel	_	_	_	Translit=nɑmut
-22	თი	თი	PRON	dprn	PronType=Dem	_	_	_	Translit=ti
-23	ოხვამეეს	ოხვამეე	VERB	ptcp_DAT	Case=Dat|Number=Sing|VerbForm=Part	_	_	_	Translit=ɔxvɑmɛɛs
-24	უკავშირდებუუ	უკავშირდებ	VERB	TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=No|Translit=ukʼɑvʃirdɛbuu
-25	?	?	PUNCT	F	PunctType=Qest	_	_	_	Translit=?
+15	თიიწკმა	თიიწკმა	ADV	temp	AdvType=Tim	_	_	_	Translit=tiit͡sʼkʼmɑ
+16	დაკავშირებუჲ	დაკავშირებუჲ	VERB	ptcp_NOM	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	Translit=dɑkʼɑvʃirɛbuj
+17	მუთუნ	მუთუნ	PRON	idprn_NOM	Case=Nom|PronType=Ind	_	_	_	Translit=mutun
+18	თქმულებაა	თქმულებაა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=tkmulɛbɑɑ
+19	ან	ან	CCONJ	сnj	_	_	_	_	Translit=ɑn
+20	გადმოცემა	გადმოცემა	X	_	Foreign=Yes	_	_	_	SpaceAfter=No|Translit=ɡɑdmɔt͡sɛmɑ
+21	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
+22	ნამუთ	ნამუ	PRON	rprn_FOC	PronType=Rel	_	_	_	Translit=nɑmut
+23	თი	თი	PRON	dprn	PronType=Dem	_	_	_	Translit=ti
+24	ოხვამეეს	ოხვამეე	VERB	ptcp_DAT	Case=Dat|Number=Sing|VerbForm=Part	_	_	_	Translit=ɔxvɑmɛɛs
+25	უკავშირდებუუ	უკავშირდებ	VERB	TS_SUBJ3	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=No|Translit=ukʼɑvʃirdɛbuu
+26	?	?	PUNCT	F	PunctType=Qest	_	_	_	Translit=?
 
 # sent_id = MLC_00107
 # text = - ჩქინ გვარიიშ ართ ართ რე ისტორია მუჭო მიჩქუნან, ჩქინ გვარიიშ, ანუ  მფარვეჲი ხატი რე წმიდა გიორგიშ ოხვამე, სოდეც ჩქი ისტორიაშე მუურსუ ნამდგა, ჩქინი გვარი განსაკუთრებუჲი  იცვეენდუ წეს ჩვეულებეფს.
@@ -2185,8 +2185,8 @@
 9	ბაბაჩია	ბაბაჩია	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No|Translit=bɑbɑt͡ʃiɑ
 10	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
 11	ათაშ	ათაშ	ADV	mod	AdvType=Man	_	_	_	Translit=ɑtɑʃ
-12-13
-12	ქოფთქუათჷ	თქ	VERB	AFFMT_SUBJ1_AUG_SBJ_SUBJ1/2PL_EMPH	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=No|Translit=kɔptkuɑtə
+12-13	ქოფთქუათჷნჷ	_	_	_	_	_	_	_	SpaceAfter=No
+12	ქოფთქუათჷ	თქ	VERB	AFFMT_SUBJ1_AUG_SBJ_SUBJ1/2PL_EMPH	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Pres|Voice=Act	_	_	_	Translit=kɔptkuɑtə
 13	ნჷ	ნჷ	SCONJ	Conj	_	_	_	_	Translit=nə
 14	.	.	PUNCT	F	PunctType=Peri	_	_	_	Translit=.
 
@@ -2272,12 +2272,12 @@
 7	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
 8	აბა	აბა	INTJ	_	_	_	_	_	Translit=ɑbɑ
 9	შენობა	შენობა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=ʃɛnɔbɑ
-10-11	ვაარდ	_	_	_	_	_	_	_	_	
+10-11	ვაარდ	_	_	_	_	_	_	_	_
 10	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ
-11	რ	AUX	APPL.INDIR_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=ɑrd
+11	რ	AUX	APPL.INDIR_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	_	Translit=ɑrd
 12	ეიშა	ეიშა	ADV	temp	AdvType=Tim	_	_	_	SpaceAfter=No|Translit=ɛiʃɑ
 13	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
-14	უკუჲნე უკუჲნე	ADV	temp_afterwards	AdvType=Tim	_	_	_	Translit=ukʼujnɛ ukʼujnɛ
+14	უკუჲნე უკუჲნე	ADV	temp	AdvType=Tim	_	_	_	Translit=ukʼujnɛ
 15	დიჭყეს	ჭყ	VERB	PRV_APPL.SUBJ_SUBJ3PL	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Imp|Voice=Act	_	_	_	Translit=dit͡ʃʼqʼɛs
 16	შენობა	შენობა	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=ʃɛnɔbɑ
 17	ვარა	ვარა	CCONJ	CONJ	_	_	_	_	SpaceAfter=No|Translit=vɑrɑ
@@ -2355,7 +2355,7 @@
 6	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
 7	ეეშ	ეეშ	ADV	mod	AdvType=Man	_	_	_	Translit=ɛɛʃ
 8-9	ვაარდ	_	_	_	_	_	_	_	SpaceAfter=No
-8	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ	
+8	ვა	ვა	PART	NEG	PartType=Neg	_	_	_	Translit=vɑ
 9	არდ	რ	AUX	APPL.INDIR_IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=ɑrd
 10	,	,	PUNCT	F	PunctType=Comm	_	_	_	Translit=,
 11	ბები	ბებ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No|Translit=bɛbi
