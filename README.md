@@ -35,7 +35,7 @@ Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions 
 Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: narratives
+Genre: conversations
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: automatic with corrections
