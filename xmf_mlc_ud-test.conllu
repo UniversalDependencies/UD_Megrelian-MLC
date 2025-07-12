@@ -12,8 +12,8 @@
 7	დ	დ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=d
 8	ან	ან	CCONJ	сnj	_	_	_	_	Translit=ɑn
 9	მუ	მუ	PRON	iprn_NOM	Case=Nom|PronType=Int	_	_	_	Translit=mu
-10-11
-10	ფერი	ფერ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No|Translit=pɛri
+10-11	ფერიდ	_	_	_	_	_	_	_	SpaceAfter=No
+10	ფერი	ფერ	NOUN	NOM	Case=Nom|Number=Sing	_	_	_	Translit=pɛri
 11	დ	დ	AUX	IMPF_SUBJ3SG	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp	_	_	_	Translit=d
 12	?	?	PUNCT	F	PunctType=Qest	_	_	_	Translit=?
 
