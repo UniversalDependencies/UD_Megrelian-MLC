@@ -36,6 +36,7 @@ Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions 
 Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
