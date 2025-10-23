@@ -1,6 +1,6 @@
 # sent_id = MLC_00001
 # text = - დო თე კაჭიჭი მუჭომ ჸურძენიდ ან მუ ფერიდ?
-# text_en = What kind of grape was Kachichi? What color wa it?
+# text_en = What kind of grape was Kachichi? What color was it?
 # translit = dɔ tɛ kʼɑt͡ʃʼit͡ʃʼi mut͡ʃʼɔm ʔurd͡zɛnid ɑn mu pɛrid?
 1	-	-	PUNCT	F	PunctType=Dash	_	_	_	Translit=-
 2	დო	დო	CCONJ	CONJ	_	_	_	_	Translit=dɔ
